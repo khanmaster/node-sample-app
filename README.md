@@ -41,6 +41,10 @@ There is a commented route that opens a serious security vulnerability. This sho
 
 Clone the app
 
+sudo apt-get install curl (if already not installed)
+curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+sudo apt-get install nodejs (if already not installed)
+
 ```
 npm install
 npm start
